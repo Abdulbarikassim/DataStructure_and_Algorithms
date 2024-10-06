@@ -35,7 +35,8 @@ To get started with the code, clone the repository by running:
 
 ```bash
 git clone https://github.com/Abdulbarikassim/DataStructure_and_Algorithms.git
-cd DataStructure_and_Algorithms```
+cd DataStructure_and_Algorithms
+```
 
 Prerequisites
 
