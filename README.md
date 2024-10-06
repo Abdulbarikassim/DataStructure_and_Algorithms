@@ -51,55 +51,6 @@ To run the algorithms or data structure code, use the respective commands based 
 # Example for Python
 python filename.py
 
-You can find the code in directories organized by data structure and algorithm type.
 
-Data Structures
 
-This section covers the implementation and theory behind the following data structures:
 
-	•	Arrays: Basic operations, resizing, and applications.
-	•	Linked Lists: Singly linked lists, doubly linked lists, and circular linked lists.
-	•	Stacks: Implementations using arrays and linked lists.
-	•	Queues: Implementations of queues, circular queues, and priority queues.
-	•	Trees: Binary trees, binary search trees (BST), AVL trees, heaps.
-	•	Graphs: Representation using adjacency lists and matrices.
-	•	Hash Tables: Hash functions, collision handling using chaining and open addressing.
-
-Algorithms
-
-Here are the algorithmic topics covered in this repository:
-
-	•	Sorting Algorithms:
-	•	Bubble Sort
-	•	Insertion Sort
-	•	Merge Sort
-	•	Quick Sort
-	•	Heap Sort
-	•	Searching Algorithms:
-	•	Linear Search
-	•	Binary Search
-	•	Graph Algorithms:
-	•	Breadth-First Search (BFS)
-	•	Depth-First Search (DFS)
-	•	Dijkstra’s Algorithm
-	•	Dynamic Programming:
-	•	Longest Common Subsequence (LCS)
-	•	Knapsack Problem
-	•	Fibonacci Series using dynamic programming
-
-Contributing
-
-Contributions are welcome! If you’d like to improve or add new data structures or algorithms:
-
-	1.	Fork the repository.
-	2.	Create a new branch.
-	3.	Make your changes and add comments where necessary.
-	4.	Submit a pull request.
-
-Please ensure your code follows proper coding practices, and include tests for new features.
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Feel free to explore, contribute, and learn!
