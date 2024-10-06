@@ -71,16 +71,16 @@ Algorithms
 
 Here are the algorithmic topics covered in this repository:
 
-	•	Sorting Algorithms:
+	•	**Sorting Algorithms:**
 	•	Bubble Sort
 	•	Insertion Sort
 	•	Merge Sort
 	•	Quick Sort
 	•	Heap Sort
-	•	Searching Algorithms:
+	•	**Searching Algorithms:**
 	•	Linear Search
 	•	Binary Search
-	•	Graph Algorithms:
+	•	**Graph Algorithms:**
 	•	Breadth-First Search (BFS)
 	•	Depth-First Search (DFS)
 	•	Dijkstra’s Algorithm
