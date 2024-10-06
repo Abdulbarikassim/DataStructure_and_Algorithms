@@ -1,6 +1,6 @@
-    
 
-# Data Structures and Algorithms.
+
+# Data Structures and Algorithms
 
 Welcome to the **Data Structures and Algorithms** repository! This repository contains implementations of various data structures and algorithms, along with explanations and problem-solving examples. It is aimed at helping you understand how data structures and algorithms work in practice.
 
@@ -21,7 +21,8 @@ Welcome to the **Data Structures and Algorithms** repository! This repository co
 
 This repository provides implementations of key data structures and algorithms in a variety of programming languages. The goal is to offer a comprehensive resource for both beginners and experienced developers looking to understand the foundational concepts of data structures and algorithms.
 
-### Topics Covered:
+### Topics Covered
+
 - Common data structures like arrays, linked lists, stacks, and trees.
 - Algorithmic techniques such as searching, sorting, and dynamic programming.
 - Problem-solving examples and coding challenges.
@@ -50,10 +51,8 @@ To run the algorithms or data structure code, use the respective commands based 
 # Example for Python
 python filename.py
 
-
-
 You can find the code in directories organized by data structure and algorithm type.
-exit
+
 Data Structures
 
 This section covers the implementation and theory behind the following data structures:
@@ -99,5 +98,8 @@ Contributions are welcome! If you’d like to improve or add new data structures
 
 Please ensure your code follows proper coding practices, and include tests for new features.
 
+License
 
+This project is licensed under the MIT License - see the LICENSE file for details.
 
+Feel free to explore, contribute, and learn!
