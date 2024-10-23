@@ -14,12 +14,12 @@ def sort(nums):
         elif all(x == nums[0] for x in nums):
             raise ValueError(f"Cannot sort if all the values of the array are equal")
         # outer loop.
-        for i in range(len(nums)-1):
+        for i in range(len(nums) - 1):
             swapped = False
-            for j in range(len(nums)-i-1):
-                if nums[j] > nums[j+1]:
+            for j in range(len(nums) - i - 1):
+                if nums[j] > nums[j + 1]:
                     temp = nums[j]
-                    nums[j] = nums[j+1]
+                    nums[j] = nums[j + 1]
                     nums[j + 1] = temp
                     swapped = True
 
@@ -29,11 +29,7 @@ def sort(nums):
         print(e)
 
 
-numbers = [2,2,2,2,2]
-
+numbers = [4, 2, 7, 5, 12, 10, 8, 6]
 
 sort(numbers)
-# print(numbers)
-
-
-
+print(numbers)
