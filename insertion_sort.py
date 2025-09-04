@@ -23,8 +23,9 @@ def insertion_sort(arr):
 
 
 numbers = [9, 2, 4, 3, 12, 10, 8, 7, 14, 11]
+print("Unsorted array: ", numbers)
 insertion_sort(numbers)
-print(numbers)
+print("Sorted array: ", numbers)
 
 
 

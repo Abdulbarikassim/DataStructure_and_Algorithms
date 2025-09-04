@@ -1,4 +1,4 @@
-# Bubble sort - This is an algorithms that sort items from the lowest to highest in a list.
+# Bubble bubble_sort - This is an algorithms that bubble_sort items from the lowest to highest in a list.
 
 # ascending order of list.
 # add edge cases for the code:
@@ -7,12 +7,12 @@
 # and if everything in array is the same.
 # This code now solve both positive and negative integers in a list.
 
-# def sort(nums):
+# def bubble_sort(nums):
 #     try:
 #         if len(nums) <= 0 or len(nums) < 1:
 #             raise ValueError("Number should be more than two for comparison")
 #         elif all(x == nums[0] for x in nums):
-#             raise ValueError(f"Cannot sort if all the values of the array are equal")
+#             raise ValueError(f"Cannot bubble_sort if all the values of the array are equal")
 #         # outer loop.
 #         for i in range(len(nums) - 1):
 #             swapped = False
@@ -29,7 +29,7 @@
 #         print(e)
 #
 
-def sort(arr):
+def bubble_sort(arr):
     swapped  = True
     end = len(arr)
 
@@ -45,5 +45,5 @@ def sort(arr):
 
 numbers = [4, 2, 7, 5, 12, 10, 8, 6]
 
-sort(numbers)
+bubble_sort(numbers)
 print(numbers)
