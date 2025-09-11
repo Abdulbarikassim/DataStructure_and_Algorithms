@@ -3,7 +3,7 @@
 - is a fundamental data structure in computer science that is used for storing and managing data.
 - They follow the format first in first out.
 - Operation are very fast all O(1):
-    - Enqueue: adding items at end.
+    - Enqueue: adding items at end this takes O(n) with list but O(1) with linked list.
     - Dequeue: removing item at front.
     - peek.
     - getFront: get the item at the front without deleting it.
